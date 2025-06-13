@@ -1,5 +1,4 @@
 # sensing-a-vibe
-Sensing a Vibe: Code and Internet Aesthetics Dataset
 
 This repository accompanies the MA thesis
 "Sensing a Vibe: Facilitating Serendipitous Discovery and Engagement for Casual Users via Digital Exploration through Internet Aesthetics. An Artpedia Case Study."
