@@ -45,6 +45,7 @@ Clone the repository
 
 text
 git clone https://github.com/yourusername/sensing-a-vibe.git
+
 Install dependencies
 The notebook uses Python 3.x and standard data science libraries (see the first cell of the notebook for details).
 For LLM experiments, you will need an OpenAI API key.
