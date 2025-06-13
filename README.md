@@ -17,7 +17,7 @@ The compiled dataset of internet aesthetics (IA) categories, scraped and curated
 
 The primary art dataset (Artpedia) used for annotation and experimentation is publicly available [here]\(https://aimagelab.ing.unimore.it/imagelab/page.asp?IdPage=35) and is not redistributed in this repository.
 
-#Repository Contents
+# Repository Contents
 
 internet_aesthetics_codebook.pdf
 
