@@ -17,12 +17,16 @@ The compiled dataset of internet aesthetics (IA) categories, scraped and curated
 
 The primary art dataset (Artpedia) used for annotation and experimentation is publicly available [here]\(https://aimagelab.ing.unimore.it/imagelab/page.asp?IdPage=35) and is not redistributed in this repository.
 
-Repository Contents
+#Repository Contents
+
 internet_aesthetics_codebook.pdf
+
 Contains all internet aesthetics featured in internet_aesthetics_dataset.csv, with short descriptions and accompanying images.
+
 
 internet_aesthetics_dataset.csv
 The full list of internet aesthetics categories and metadata as used in the thesis.
+
 
 sensing_a_vibe_notebook.ipynb
 Jupyter notebook containing all code for:
