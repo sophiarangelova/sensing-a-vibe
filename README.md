@@ -5,7 +5,9 @@ This repository accompanies the MA thesis
 by Sofiya Rangelova, University of Amsterdam, 2025.
 
 # Overview
-This project examines how organizing digital cultural heritage collections by internet aesthetics, utilizing a searchless, visually organized interface, can enhance user engagement and facilitate serendipitous discovery for casual users. The repository contains:
+This project examines how organizing digital cultural heritage collections by internet aesthetics, utilizing a searchless, visually organized interface, can enhance user engagement and facilitate serendipitous discovery for casual users. 
+
+The repository contains:
 
 The codebook used for manual annotation, compiled using the scraped Internet Aesthetics from the Aesthetics Fandom Wiki that can be accessed [here]/https://aesthetics.fandom.com/wiki/Category:Internet_Aesthetics 
 
@@ -55,7 +57,7 @@ If you use this code or the IA dataset, please cite:
 Rangelova, S. (2025). Sensing a Vibe: Exploring Serendipitous Discovery and Engagement for Casual Users via Digital Exploration of Internet Aesthetics for Digital Cultural Heritage Collections (Master’s thesis, University of Amsterdam).
 
 License
-This repository is licensed under the MIT License. See LICENSE for details.
+This repository is licensed under the MIT License. See LICENSE.md for details.
 
 Contact
 For questions, please contact Sofiya Rangelova at [sofiya.rangelova@student.uva.nl].
