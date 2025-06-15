@@ -12,6 +12,12 @@ The repository contains:
 The codebook used for manual annotation, compiled using the scraped Internet Aesthetics from the Aesthetics Fandom Wiki that can be accessed [here]/https://aesthetics.fandom.com/wiki/Category:Internet_Aesthetics 
 
 
+The manuall annotation results for all coders
+
+
+The results for zero-shot and two-shot promting LLM classifation results
+
+
 The code (Jupyter notebook) used for data processing and automated classification experiments with large language models (LLMs).
 
 
@@ -28,6 +34,16 @@ internet_aesthetics_codebook.pdf
 Contains all internet aesthetics featured in internet_aesthetics_dataset.csv, with short descriptions and accompanying images.
 
 
+Manual Annotation Results All Coders.csv
+
+Contains all annotations done by 3 coders, title of the image 
+
+
+Zero-Shot & Two-Shot LLM Classification Results.csv
+
+Contains results from automated classification with LLMs for zero-shot and two-shot prompting
+
+
 internet_aesthetics_dataset.csv
 
 The full list of internet aesthetics categories and metadata as used in the thesis.
@@ -42,6 +58,7 @@ Data preprocessing
 LLM-based classification experiments (zero-shot and two-shot)
 
 Data analysis and visualization
+
 
 README.md
 
