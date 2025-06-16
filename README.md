@@ -95,7 +95,7 @@ Citation
 
 If you use this code or the IA dataset, please cite:
 
-Rangelova, S. (2025). Sensing a Vibe: Exploring Serendipitous Discovery and Engagement for Casual Users via Digital Exploration of Internet Aesthetics for Digital Cultural Heritage Collections (Master’s thesis, University of Amsterdam).
+Rangelova, S. (2025). Sensing a Vibe: Integrating Internet Aesthetics into an Exploratory Interface for the Serendipitous Navigation of the Artpedia Dataset (Master’s thesis, University of Amsterdam).
 
 
 License
