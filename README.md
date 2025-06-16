@@ -35,12 +35,12 @@ internet_aesthetics_codebook.pdf
 Contains all internet aesthetics featured in internet_aesthetics_dataset.csv, with short descriptions and accompanying images.
 
 
-Manual Annotation Results All Coders.csv
+manual_annotation_results_all_coders.csv
 
 Contains all annotations done by 3 coders, title of the image 
 
 
-Zero-Shot & Two-Shot LLM Classification Results.csv
+zero-shot_&_two_shot_LLM_classification_results.csv
 
 Contains results from automated classification with LLMs for zero-shot and two-shot prompting
 
