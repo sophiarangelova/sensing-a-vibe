@@ -1,7 +1,8 @@
 # sensing-a-vibe
 
 This repository accompanies the MA thesis
-"Sensing a Vibe: Facilitating Serendipitous Discovery and Engagement for Casual Users via Digital Exploration through Internet Aesthetics. An Artpedia Case Study."
+"Sensing a Vibe: Integrating Internet Aesthetics into an Exploratory Interface for the Serendipitous Navigation of the Artpedia Dataset"
+
 by Sofiya Rangelova, University of Amsterdam, 2025.
 
 # Overview
