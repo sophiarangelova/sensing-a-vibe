@@ -1,9 +1,7 @@
 # sensing-a-vibe
 
-This repository accompanies the MA thesis
-"Sensing a Vibe: Integrating Internet Aesthetics into an Exploratory Interface for the Serendipitous Navigation of the Artpedia Dataset"
+This repository accompanies the demo paper “Exploring Art through Internet Aesthetics: A Serendipitous Interface for Artpedia” by Sophia Rangelova, Jaap and the master’s thesis “Sensing a Vibe: Integrating Internet Aesthetics into an Exploratory Interface for the Serendipitous Navigation of the Artpedia Dataset” (University of Amsterdam, 2025) by Sophia Rangelova.
 
-by Sofiya Rangelova, University of Amsterdam, 2025.
 
 # Overview
 This project examines how organizing digital cultural heritage collections by internet aesthetics, utilizing a searchless, visually organized interface, can enhance user engagement and facilitate serendipitous discovery for casual users. 
@@ -13,10 +11,10 @@ The repository contains:
 The codebook used for manual annotation, compiled using the scraped Internet Aesthetics from the Aesthetics Fandom Wiki that can be accessed [here]/https://aesthetics.fandom.com/wiki/Category:Internet_Aesthetics 
 
 
-The manuall annotation results for all coders
+The manual annotation results for all coders
 
 
-The results for zero-shot and two-shot promting LLM classifation results
+The results for zero-shot and two-shot prompting LLM classification results
 
 
 The code (Jupyter notebook) used for data processing and automated classification experiments with large language models (LLMs).
@@ -93,8 +91,12 @@ Open sensing_a_vibe_notebook.ipynb in Jupyter or VS Code and follow the instruct
 
 Citation
 
-If you use this code or the IA dataset, please cite:
+If you use this repository, code, or internet aesthetics dataset in academic work, please cite:
 
+Demo paper
+Rangelova, S. (2026). Exploring Art through Internet Aesthetics: A Serendipitous Interface for Artpedia (demo paper).
+
+Thesis
 Rangelova, S. (2025). Sensing a Vibe: Integrating Internet Aesthetics into an Exploratory Interface for the Serendipitous Navigation of the Artpedia Dataset (Master’s thesis, University of Amsterdam).
 
 
@@ -105,4 +107,4 @@ This repository is licensed under the MIT License. See LICENSE.md for details.
 
 Contact
 
-For questions, please contact Sofiya Rangelova at [sofiya.rangelova@student.uva.nl].
+For questions, please contact Sophia Rangelova at [sophiarangelova7@gmail.com].
