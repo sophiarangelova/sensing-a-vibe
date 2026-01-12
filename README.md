@@ -1,4 +1,4 @@
-# sensing-a-vibe
+# Exploring Art through Internet Aesthetics
 
 This repository accompanies the demo paper “Exploring Art through Internet Aesthetics: A Serendipitous Interface for Artpedia” by Sophia Rangelova, Jaap and the master’s thesis “Sensing a Vibe: Integrating Internet Aesthetics into an Exploratory Interface for the Serendipitous Navigation of the Artpedia Dataset” (University of Amsterdam, 2025) by Sophia Rangelova.
 
